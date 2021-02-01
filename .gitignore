@@ -91,4 +91,7 @@ Build/Android/res/*
 Build/Android/res/*/*
 !Build/Android/res/*/*.png
 
+# Other Files
+.DS_Store
+
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
